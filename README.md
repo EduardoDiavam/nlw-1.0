@@ -25,3 +25,67 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
+### Install API 
+
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielObara/NLW-1.0
+
+# Go into the repository
+$ cd NLW-1.0/backend
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn knex:migrate
+
+# Run Seeds
+$ yarn knex:seed
+
+# Start server
+$ yarn dev
+
+# running on port 3333
+```
+
+### Install Front-end
+
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielObara/NLW-1.0
+
+# Go into the repository
+$ cd NLW-1.0/frontent
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# running on port 3000
+```
+
+### Install Mobile
+
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielObara/NLW-1.0
+
+# Go into the repository
+$ cd NLW-1.0/mobile
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# Expo will open, just scan the qrcode on terminal or expo page
+
+# If some problem with fonts, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+```
+
