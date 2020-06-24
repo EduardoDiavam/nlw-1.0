@@ -32,7 +32,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 $ git clone https://github.com/DanielObara/NLW-1.0
 
 # Go into the repository
-$ cd NLW-1.0/backend
+$ cd nlw-1.0/nlw-backend
 
 # Install dependencies
 $ yarn install
@@ -56,7 +56,7 @@ $ yarn dev
 $ git clone https://github.com/DanielObara/NLW-1.0
 
 # Go into the repository
-$ cd NLW-1.0/frontent
+$ cd nlw-1.0/nlw-frontend
 
 # Install dependencies
 $ yarn install
@@ -74,7 +74,7 @@ $ yarn start
 $ git clone https://github.com/DanielObara/NLW-1.0
 
 # Go into the repository
-$ cd NLW-1.0/mobile
+$ cd nlw-1.0/nlw-mobile
 
 # Install dependencies
 $ yarn install
