@@ -29,7 +29,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/EduardoDiavam/nlw-1.0.git
 
 # Go into the repository
 $ cd nlw-1.0/nlw-backend
@@ -53,7 +53,7 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/EduardoDiavam/nlw-1.0.git
 
 # Go into the repository
 $ cd nlw-1.0/nlw-frontend
@@ -71,7 +71,7 @@ $ yarn start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/EduardoDiavam/nlw-1.0.git
 
 # Go into the repository
 $ cd nlw-1.0/nlw-mobile
